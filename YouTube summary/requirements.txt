@@ -1,0 +1,7 @@
+Run these commands in your terminal, code wont work without them, they're probably safe:
+
+pip install youtube-transcript-api
+pip install yt-dlp
+
+If you want to get the summary on your local AI via Ollama then also do (IF YOU DON'T HAVE OLLAMA INSTALLED ON YOUR SYSTEM IT STILL WILL NOT WORK): 
+pip install ollama
